@@ -1,0 +1,12 @@
+C:\Users\chhap\OneDrive\Desktop\.NET\FinalExam\FinalExam\bin\Debug\FinalExam.exe.config
+C:\Users\chhap\OneDrive\Desktop\.NET\FinalExam\FinalExam\bin\Debug\FinalExam.exe
+C:\Users\chhap\OneDrive\Desktop\.NET\FinalExam\FinalExam\bin\Debug\FinalExam.pdb
+C:\Users\chhap\OneDrive\Desktop\.NET\FinalExam\FinalExam\bin\Debug\EntityFramework.dll
+C:\Users\chhap\OneDrive\Desktop\.NET\FinalExam\FinalExam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chhap\OneDrive\Desktop\.NET\FinalExam\FinalExam\bin\Debug\EntityFramework.xml
+C:\Users\chhap\OneDrive\Desktop\.NET\FinalExam\FinalExam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chhap\OneDrive\Desktop\.NET\FinalExam\FinalExam\obj\Debug\FinalExam.csproj.AssemblyReference.cache
+C:\Users\chhap\OneDrive\Desktop\.NET\FinalExam\FinalExam\obj\Debug\FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\chhap\OneDrive\Desktop\.NET\FinalExam\FinalExam\obj\Debug\FinalExam.csproj.CopyComplete
+C:\Users\chhap\OneDrive\Desktop\.NET\FinalExam\FinalExam\obj\Debug\FinalExam.exe
+C:\Users\chhap\OneDrive\Desktop\.NET\FinalExam\FinalExam\obj\Debug\FinalExam.pdb
